@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <author>
-    <name>flowwalker</name>
+    <name>flowwalker之数术Blog</name>
   </author>
   <generator uri="https://hexo.io/">Hexo</generator>
   <id>https://flowwalker.github.io/math-notes-blog/</id>
   <link href="https://flowwalker.github.io/math-notes-blog/" rel="alternate"/>
   <link href="https://flowwalker.github.io/math-notes-blog/atom.xml" rel="self"/>
-  <rights>All rights reserved 2026, flowwalker</rights>
+  <rights>All rights reserved 2026, flowwalker之数术Blog</rights>
   <subtitle>隔江人在雨声中, 回首向来萧瑟...</subtitle>
   <title>数学笔记</title>
   <updated>2026-07-20T10:18:28.321Z</updated>
   <entry>
     <author>
-      <name>flowwalker</name>
+      <name>flowwalker之数术Blog</name>
     </author>
     <category term="站务" scheme="https://flowwalker.github.io/math-notes-blog/categories/%E7%AB%99%E5%8A%A1/"/>
     <category term="开篇" scheme="https://flowwalker.github.io/math-notes-blog/tags/%E5%BC%80%E7%AF%87/"/>
