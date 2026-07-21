@@ -10,7 +10,7 @@
   <rights>All rights reserved 2026, flowwalker之数术Blog</rights>
   <subtitle>隔江人在雨声中, 回首向来萧瑟...</subtitle>
   <title>数学博客</title>
-  <updated>2026-07-21T03:03:03.523Z</updated>
+  <updated>2026-07-21T03:20:28.791Z</updated>
   <entry>
     <author>
       <name>flowwalker之数术Blog</name>
@@ -18,13 +18,13 @@
     <category term="站务" scheme="https://flowwalker.github.io/math-notes-blog/categories/%E7%AB%99%E5%8A%A1/"/>
     <category term="开篇" scheme="https://flowwalker.github.io/math-notes-blog/tags/%E5%BC%80%E7%AF%87/"/>
     <content>
-      <![CDATA[<p>这里是我的数学课程学习笔记博客，用来系统整理数学相关课程的笔记与推导。</p><p>计划覆盖的课程：</p><ul><li>数学物理方法</li><li>复变函数</li><li>概率论与数理统计</li><li>线性代数</li></ul><p>以笔记和例题为主，公式用 MathJax 渲染：</p><p>$$\frac{\partial^2 u}{\partial t^2} = a^2 \nabla^2 u$$</p><p>主博客请访问 <a href="https://flowwalker.top/">flowwalker.top</a>。</p>]]>
+      <![CDATA[<p>这里是记录我数学思考的博客。</p><p>以笔记和例题为主，公式用 MathJax 渲染：</p><p>$$\frac{\partial^2 u}{\partial t^2} = a^2 \nabla^2 u$$</p><p>在这个时代的潮流中，虽然手搓已经失去了效率一说，权威也被解构，那么——</p><p>似乎一切的自我陶醉都是一种自作多情，但</p><p>又何妨呢？</p><p>心中拥有美好，荒岛也能耕种出繁花～</p><p>孤芳自赏者，毋为世事倾侧。</p><p>主博客请访问 <a href="https://flowwalker.top/">flowwalker.top</a>。</p>]]>
     </content>
     <id>https://flowwalker.github.io/math-notes-blog/posts/634b/</id>
     <link href="https://flowwalker.github.io/math-notes-blog/posts/634b/"/>
     <published>2026-07-19T15:30:00.000Z</published>
-    <summary>数本无形，因理成象。推之演之，万象森列。</summary>
+    <summary>数本无形，因理成象。推之演之，森列万象。</summary>
     <title>数学博客开张</title>
-    <updated>2026-07-21T03:03:03.523Z</updated>
+    <updated>2026-07-21T03:20:28.791Z</updated>
   </entry>
 </feed>
