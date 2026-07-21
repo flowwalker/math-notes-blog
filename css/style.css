@@ -2085,8 +2085,9 @@ html.dark .dark-toggle-float .icon-moon { display: none; }
 }
 .link-card {
   display: flex;
-  flex-direction: column;
-  gap: 6px;
+  flex-direction: row;
+  align-items: center;
+  gap: 14px;
   padding: 18px 22px;
   border: 1.5px solid var(--color-border);
   border-radius: 12px;
@@ -2097,6 +2098,18 @@ html.dark .dark-toggle-float .icon-moon { display: none; }
   border-color: #4a90d9;
   transform: translateY(-3px);
   box-shadow: 0 6px 20px rgba(74, 144, 217, 0.12);
+}
+.link-card-avatar {
+  width: 44px;
+  height: 44px;
+  border-radius: 50%;
+  object-fit: cover;
+  flex-shrink: 0;
+  border: 1.5px solid var(--color-border);
+}
+.link-card-text {
+  flex: 1;
+  min-width: 0;
 }
 .link-card-title {
   font-size: 1.05rem;
