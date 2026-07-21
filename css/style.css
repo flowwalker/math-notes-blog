@@ -2112,12 +2112,14 @@ html.dark .dark-toggle-float .icon-moon { display: none; }
   min-width: 0;
 }
 .link-card-title {
+  display: block;
   font-size: 1.05rem;
   font-weight: 600;
   color: var(--color-text);
   line-height: 1.4;
 }
 .link-card-desc {
+  display: block;
   font-size: 0.9rem;
   color: var(--color-text-light, #888);
   line-height: 1.5;
